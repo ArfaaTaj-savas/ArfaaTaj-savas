@@ -1,5 +1,9 @@
 # 💫 About Me:
-🔭 I’m currently working on Image-generating project <br>👯 I’m looking to collaborate on API security projects <br>🤝 I’m looking for help with projects<br>🌱 I’m currently learning Networking<br>💬Don't ask me about<br>⚡ Fun fact
+🔭 I’m currently working on Image-generating project <br>
+👯 I’m looking to collaborate on API security projects <br>
+🤝 I’m looking for help with projects<br>🌱 I’m currently learning Networking<br>
+💬Don't ask me about<br>⚡
+Fun fact
 
 
 # 💻 Tech Stack:
