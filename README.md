@@ -1,11 +1,9 @@
-# <div align="center">Hi there, I'm Arfaa Taj! 👋</div>
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Software+Developer;Robotics+%26+Automation+Engineer;Cybersecurity+Enthusiast;Cloud+Computing+Explorer" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00599C&height=250&section=header&text=Arfaa%20Taj&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Robotics%20Engineer%20%26%20Creative%20Developer&descAlignY=55&descAlign=50" width="100%" />
 </div>
 
 <div align="center">
-  Welcome to my digital playground! I bridge the gap between <b>Bit & Atom</b>—building secure digital systems and intelligent physical machines.
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E99B0&center=true&vCenter=true&width=600&lines=Building+Intelligent+Machines;Securing+Digital+Assets;Exploring+Cloud+Horizons" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -22,19 +20,19 @@
 
 > *"Building the future, one line of code and one servo motor at a time."*
 
-I am a multi-disciplinary engineer passionate about:
-- 🛠️ **Robotics**: Designing autonomous systems and control algorithms.
-- 🔐 **Cybersecurity**: Securing the edge and IoT devices.
-- ☁️ **Cloud**: Scalable backend solutions for intelligent fleets.
+I am a multi-disciplinary engineer bridging the gap between **Digital Logic** and **Physical Action**.
+
+- 🛠️ **Robotics**: Designing autonomous systems, SLAM, and swarm intelligence.
+- 🔐 **Cybersecurity**: Securing IoT networks and critical infrastructure.
+- ☁️ **Cloud**: Deploying scalable backends for intelligent fleets.
 
 <details>
-  <summary><b>⚡ Click to see my Current Focus</b> (Interactive)</summary>
+  <summary><b>⚡ Live Status (Interactive)</b></summary>
   <br />
   
-  - 🔭 **Working on**: An autonomous image-generating robot & swarm control systems.
+  - 🔭 **Working on**: An autonomous image-generating robot.
   - 👯 **Collaborating on**: Secure communication protocols for drone fleets.
   - 🌱 **Learning**: ROS2 Navigation Stack & Advanced Neural Networks.
-  - 💬 **Ask me about**: Path planning, SLAM, Network Security, or 3D Printing.
   
 </details>
 
@@ -71,6 +69,10 @@ I am a multi-disciplinary engineer passionate about:
 ## 🧩 The Github Grid
 
 <div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ArfaaTaj-savas&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+</div>
+<br/>
+<div align="center">
   <!-- Activity Graph -->
   <img src="https://github-readme-stats.vercel.app/api?username=ArfaaTaj-savas&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" width="48%" />
   <!-- Streak Stats -->
@@ -84,16 +86,6 @@ I am a multi-disciplinary engineer passionate about:
 
 ---
 
-<details>
-  <summary><b>🏆 Recent Achievements & Contributions (Expand)</b></summary>
-  <br />
-  <div align="center">
-    <img src="https://github-contributor-stats.vercel.app/api?username=ArfaaTaj-savas&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
-  </div>
-</details>
-
----
-
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </div>
@@ -101,7 +93,10 @@ I am a multi-disciplinary engineer passionate about:
 <br />
 
 <div align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=ArfaaTaj-savas&icon=0&color=1" />
-  </a>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100" />
 </div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ArfaaTaj-savas&style=flat-square&color=blue" alt="Visitor Count" />
+</div>
+
