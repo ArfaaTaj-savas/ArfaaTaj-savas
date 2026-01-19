@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00599C&height=250&section=header&text=Arfaa%20Taj&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Robotics%20Engineer%20%26%20Creative%20Developer&descAlignY=55&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00599C&height=250&section=header&text=Arfaa%20Taj&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Robotics%20Engineer%20-%20Creative%20Developer&descAlignY=55&descAlign=50" width="100%" />
 </div>
 
 <div align="center">
@@ -69,20 +69,22 @@ I am a multi-disciplinary engineer bridging the gap between **Digital Logic** an
 
 ## 🧩 The Github Grid
 
+<!-- Trophy section commented out due to rendering issues
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ArfaaTaj-savas&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
 </div>
+-->
 <br/>
 <div align="center">
   <!-- Activity Graph -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ArfaaTaj-savas&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ArfaaTaj-savas&theme=tokyonight&hide_border=false&count_private=true" width="48%" />
   <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArfaaTaj-savas&theme=tokyonight&hide_border=false" width="48%" />
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArfaaTaj-savas&theme=tokyonight&hide_border=false" width="48%" /> -->
 </div>
 <br/>
 <div align="center">
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArfaaTaj-savas&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArfaaTaj-savas&theme=tokyonight&hide_border=false&count_private=true&layout=compact" />
 </div>
 
 ---
