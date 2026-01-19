@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00599C&height=250&section=header&text=Arfaa%20Taj&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Robotics%20Engineer%20-%20Creative%20Developer&descAlignY=55&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00599C&height=250&section=header&text=MD%20ARFAA%20TAJ%20(SAVAS)&fontSize=50&animation=fadeIn&fontAlignY=35&desc=Cybersecurity%20%2F%20Robotics%20and%20Automation&descAlignY=55&descAlign=50&fontColor=ffffff&descColor=ffffff" width="100%" />
 </div>
 
 <div align="center">
