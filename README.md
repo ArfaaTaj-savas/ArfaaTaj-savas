@@ -40,13 +40,14 @@ I am a multi-disciplinary engineer bridging the gap between **Digital Logic** an
 
 ## 🛠️ Technical Arsenal
 
-### 🤖 Robotics & Hardware
+### 🤖 Robotics & Automation
 <div align="left">
   <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white" />
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
   <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-FF6584?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/Automation%20Anywhere-FA4616?style=for-the-badge&logo=automationanywhere&logoColor=white" />
 </div>
 
 ### 💻 Languages & Core
