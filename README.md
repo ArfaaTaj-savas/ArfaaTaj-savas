@@ -130,15 +130,7 @@ I am Arfaa Taj, a multi-disciplinary engineer bridging the gap between **digital
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
 </div>
 
----
 
-## 📫 Connect with Me
-
-- **Portfolio:** [savas-web.vercel.app](https://savas-web.vercel.app)
-- **LinkedIn:** [md-arfaa-taj-6b4089256](https://linkedin.com/in/md-arfaa-taj-6b4089256)
-- **Email:** [arfaataj009@gmail.com](mailto:arfaataj009@gmail.com)
-
-<br>
 
 <div align="center">
   <a href="https://github.com/ArfaaTaj-savas">
