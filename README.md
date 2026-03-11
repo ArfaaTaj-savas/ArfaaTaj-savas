@@ -12,7 +12,7 @@
   <a href="mailto:arfaataj009@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/ArfaaTaj-savas"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </div>
-
+ 
 ---
 
 <div align="center">
@@ -21,14 +21,30 @@
 
 ---
 
-## 🚀 Quick Navigation
+<h2 align="center">🚀 Quick Navigation</h2>
 
-- [About Me](#-about-me)
-- [Live Status](#-live-status)
-- [Technical Arsenal](#-technical-arsenal)
-- [Current Focus Areas](#-current-focus-areas)
-- [GitHub Metrics & Activity](#-github-metrics--activity)
-- [Connect with Me](#-connect-with-me)
+<p align="center">
+  <a href="#-about-me">
+    <img src="https://img.shields.io/badge/👨‍💻_About_Me-2B3467?style=for-the-badge" alt="About Me" />
+  </a>
+  <a href="#-live-status">
+    <img src="https://img.shields.io/badge/⚡_Live_Status-EB455F?style=for-the-badge" alt="Live Status" />
+  </a>
+  <a href="#-technical-arsenal">
+    <img src="https://img.shields.io/badge/🛠️_Tech_Arsenal-7C83FD?style=for-the-badge" alt="Tech Arsenal" />
+  </a>
+  <br>
+  <br>
+  <a href="#-current-focus-areas">
+    <img src="https://img.shields.io/badge/🎯_Focus_Areas-96BAFF?style=for-the-badge" alt="Focus Areas" />
+  </a>
+  <a href="#-github-metrics--activity">
+    <img src="https://img.shields.io/badge/📊_GitHub_Metrics-121212?style=for-the-badge" alt="Metrics" />
+  </a>
+  <a href="#-connect-with-me">
+    <img src="https://img.shields.io/badge/📫_Connect-0077B5?style=for-the-badge" alt="Connect" />
+  </a>
+</p>
 
 ---
 
