@@ -13,13 +13,7 @@
   <a href="https://github.com/ArfaaTaj-savas"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </div>
  
----
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ArfaaTaj-savas&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" alt="Trophies" />
-</div>
-
----
 
 <img align="right" src="./assets/red_developer.png" width="45%" alt="Developer Illustration" />
 
@@ -44,12 +38,12 @@ I am Arfaa Taj, a multi-disciplinary engineer bridging the gap between **digital
 
 ### 🚀 Quick Navigation:
 <p>
-  <a href="#-live-status"><img src="https://img.shields.io/badge/⚡_Live_Status-EB455F?style=for-the-badge" alt="Live Status" /></a>
-  <a href="#-technical-arsenal"><img src="https://img.shields.io/badge/🛠️_Tech_Arsenal-7C83FD?style=for-the-badge" alt="Tech" /></a>
+  <a href="#-live-status"><img src="https://img.shields.io/badge/⚡_Live_Status-EB455F?style=flat-square&logo=rocket&logoColor=white" alt="Live Status" /></a>
+  <a href="#-technical-arsenal"><img src="https://img.shields.io/badge/🛠️_Tech_Arsenal-7C83FD?style=flat-square&logo=code&logoColor=white" alt="Tech" /></a>
 </p>
 <p>
-  <a href="#-current-focus-areas"><img src="https://img.shields.io/badge/🎯_Focus_Areas-96BAFF?style=for-the-badge" alt="Focus Areas" /></a>
-  <a href="#-github-metrics--activity"><img src="https://img.shields.io/badge/📊_GitHub_Metrics-121212?style=for-the-badge" alt="Metrics" /></a>
+  <a href="#-current-focus-areas"><img src="https://img.shields.io/badge/🎯_Focus_Areas-96BAFF?style=flat-square&logo=target&logoColor=white" alt="Focus Areas" /></a>
+  <a href="#-github-metrics--activity"><img src="https://img.shields.io/badge/📊_GitHub_Metrics-121212?style=flat-square&logo=github&logoColor=white" alt="Metrics" /></a>
 </p>
 
 <br clear="both">
