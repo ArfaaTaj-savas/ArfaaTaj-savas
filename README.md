@@ -21,42 +21,40 @@
 
 ---
 
-<h2 align="center">🚀 Quick Navigation</h2>
-
-<p align="center">
-  <a href="#-about-me">
-    <img src="https://img.shields.io/badge/👨‍💻_About_Me-2B3467?style=for-the-badge" alt="About Me" />
-  </a>
-  <a href="#-live-status">
-    <img src="https://img.shields.io/badge/⚡_Live_Status-EB455F?style=for-the-badge" alt="Live Status" />
-  </a>
-  <a href="#-technical-arsenal">
-    <img src="https://img.shields.io/badge/🛠️_Tech_Arsenal-7C83FD?style=for-the-badge" alt="Tech Arsenal" />
-  </a>
-  <br>
-  <br>
-  <a href="#-current-focus-areas">
-    <img src="https://img.shields.io/badge/🎯_Focus_Areas-96BAFF?style=for-the-badge" alt="Focus Areas" />
-  </a>
-  <a href="#-github-metrics--activity">
-    <img src="https://img.shields.io/badge/📊_GitHub_Metrics-121212?style=for-the-badge" alt="Metrics" />
-  </a>
-  <a href="#-connect-with-me">
-    <img src="https://img.shields.io/badge/📫_Connect-0077B5?style=for-the-badge" alt="Connect" />
-  </a>
-</p>
-
----
-
-## 👨‍💻 About Me
-
-> Building the future, one line of code and one servo motor at a time.
-
-I am a multi-disciplinary engineer bridging the gap between **digital logic** and **physical action**.
-
-- 🤖 **Robotics:** Designing autonomous systems, SLAM, and swarm intelligence.
-- 🔐 **Cybersecurity:** Securing IoT networks and critical infrastructure.
-- ☁️ **Cloud:** Deploying scalable backends for intelligent fleets.
+<div align="center">
+<table border="0" width="100%">
+  <tr>
+    <td width="60%" valign="top">
+      <h2>Hi there 👋</h2>
+      <p>I am Arfaa Taj, a multi-disciplinary engineer bridging the gap between <b>digital logic</b> and <b>physical action</b>. I'm also deeply passionate about robotics and IoT networks! 🤖🌐</p>
+      
+      <blockquote>
+        "Building the future, one line of code and one servo motor at a time."
+      </blockquote>
+      
+      <h3>Hobbies 😆:</h3>
+      <ul>
+        <li>Designing Autonomous Systems 🛸</li>
+        <li>Securing Critical Infrastructure 🔐</li>
+        <li>Deploying Scalable Cloud Backends ☁️</li>
+        <li>Coding & Open Source Contributions 💻</li>
+      </ul>
+      
+      <hr>
+      <h3>🚀 Quick Navigation:</h3>
+      <p>
+        <a href="#-live-status"><img src="https://img.shields.io/badge/⚡_Live_Status-EB455F?style=for-the-badge" alt="Live Status" /></a>&nbsp;
+        <a href="#-technical-arsenal"><img src="https://img.shields.io/badge/🛠️_Tech_Arsenal-7C83FD?style=for-the-badge" alt="Tech" /></a><br><br>
+        <a href="#-current-focus-areas"><img src="https://img.shields.io/badge/🎯_Focus_Areas-96BAFF?style=for-the-badge" alt="Focus Areas" /></a>&nbsp;
+        <a href="#-github-metrics--activity"><img src="https://img.shields.io/badge/📊_GitHub_Metrics-121212?style=for-the-badge" alt="Metrics" /></a>
+      </p>
+    </td>
+    <td width="40%" align="center" valign="top">
+      <img src="https://user-images.githubusercontent.com/74038190/212284100-56115201-9f93-4700-a548-c89658ec3516.gif" width="100%" alt="Developer Illustration" />
+    </td>
+  </tr>
+</table>
+</div>
 
 ---
 
