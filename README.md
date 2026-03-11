@@ -21,7 +21,7 @@
 
 ---
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212284100-56115201-9f93-4700-a548-c89658ec3516.gif" width="45%" alt="Developer Illustration" />
+<img align="right" src="https://github.com/user-attachments/assets/caeb6e91-e23a-4428-b0a5-29fe182bdeaf" width="45%" alt="Developer Illustration" />
 
 ## Hi there 👋
 
