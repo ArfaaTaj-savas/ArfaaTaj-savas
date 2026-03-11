@@ -111,7 +111,11 @@ I am Arfaa Taj, a multi-disciplinary engineer bridging the gap between **digital
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArfaaTaj-savas&theme=tokyonight&hide_border=false&count_private=true&layout=compact" width="48%" alt="Top languages" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArfaaTaj-savas&theme=tokyo-night&bg_color=1a1b27&hide_border=true" width="48%" alt="Activity Graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArfaaTaj-savas/ArfaaTaj-savas/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ArfaaTaj-savas/ArfaaTaj-savas/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ArfaaTaj-savas/ArfaaTaj-savas/output/github-contribution-grid-snake.svg" width="48%">
+  </picture>
 </div>
 
 <br>
