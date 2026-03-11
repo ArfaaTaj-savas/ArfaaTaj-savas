@@ -133,7 +133,5 @@ I am Arfaa Taj, a multi-disciplinary engineer bridging the gap between **digital
 
 
 <div align="center">
-  <a href="https://github.com/ArfaaTaj-savas">
-    <img src="https://komarev.com/ghpvc/?username=ArfaaTaj-savas&style=flat-square&color=blue" alt="Visitor Count" />
-  </a>
+  <img src="https://profile-counter.glitch.me/ArfaaTaj-savas/count.svg" alt="Visitor Count" />
 </div>
