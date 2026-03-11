@@ -36,17 +36,7 @@ I am Arfaa Taj, a multi-disciplinary engineer bridging the gap between **digital
 
 ---
 
-### 🚀 Quick Navigation:
-<p>
-  <a href="#-live-status"><img src="https://img.shields.io/badge/⚡_Live_Status-EB455F?style=flat-square&logo=rocket&logoColor=white" alt="Live Status" /></a>
-  <a href="#-technical-arsenal"><img src="https://img.shields.io/badge/🛠️_Tech_Arsenal-7C83FD?style=flat-square&logo=code&logoColor=white" alt="Tech" /></a>
-</p>
-<p>
-  <a href="#-current-focus-areas"><img src="https://img.shields.io/badge/🎯_Focus_Areas-96BAFF?style=flat-square&logo=target&logoColor=white" alt="Focus Areas" /></a>
-  <a href="#-github-metrics--activity"><img src="https://img.shields.io/badge/📊_GitHub_Metrics-121212?style=flat-square&logo=github&logoColor=white" alt="Metrics" /></a>
-</p>
 
-<br clear="both">
 
 ---
 
