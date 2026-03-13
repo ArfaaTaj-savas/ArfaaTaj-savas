@@ -87,8 +87,6 @@ I am Arfaa Taj, a multi-disciplinary engineer bridging the gap between **digital
 
 ---
 
-## 🎯 Current Focus Areas
-
 <details>
   <summary><b>🗺️ 2026 Roadmap (click to expand)</b></summary>
   <br />
