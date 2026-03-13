@@ -87,59 +87,6 @@ I am Arfaa Taj, a multi-disciplinary engineer bridging the gap between **digital
 
 ---
 
-<details>
-  <summary><b>🗺️ 2026 Roadmap (click to expand)</b></summary>
-  <br />
-
-1. Build secure, autonomous robotics pipeline with ROS2 + edge inference.
-2. Master Blue Prism RPA fundamentals and create basic business automations.
-3. Build AI-integrated n8n workflows and deploy production-ready intelligent agents.
-
-</details>
-
-<details>
-  <summary><b>📚 Robotics & RPA Syllabus (click to expand)</b></summary>
-  <br />
-
-  <div align="left">
-    <img src="https://img.shields.io/badge/n8n-FF6584?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
-    <img src="https://img.shields.io/badge/Blue%20Prism-000000?style=for-the-badge&logo=blueprism&logoColor=white" alt="Blue Prism" />
-    <img src="https://img.shields.io/badge/Automation%20Anywhere-FA4616?style=for-the-badge&logo=automationanywhere&logoColor=white" alt="Automation Anywhere" />
-  </div>
-  <br />
-
-  #### Course Outcomes (CO)
-  * **CO1**: Understand Blue Prism RPA fundamentals and implement basic automation solutions for business processes.
-  * **CO2**: Understand N8N workflows with API integrations, data transformations, and error handling mechanisms.
-  * **CO3**: Apply AI/ML services in workflows for common automation tasks using n8n nodes.
-  * **CO4**: Use basic intelligent agents with decision-making capabilities in n8n.
-  * **CO5**: Apply security practices and monitoring in automation workflows.
-  * **CO6**: Review workflow performance and implement basic optimization techniques.
-
-  #### Course Units
-  * **Unit I: Blue Prism RPA Fundamentals:** Architecture, Object development, Exception handling, Process design.
-  * **Unit II: n8n Foundations & Core:** Cloud vs self-hosted, node connections, trigger nodes, HTTP requests, APIs, Data transformation.
-  * **Unit III: Error Handling & Reliability:** Failure patterns, try-catch, retry logic, error workflows, logging.
-  * **Unit IV: AI Integration in n8n:** AI service orchestration (OpenAI, Anthropic), prompt engineering, document processing, AI-based routing.
-  * **Unit V: Intelligent Agents:** Agent fundamentals, autonomy, perception-action loops, function calling, tool integration.
-  * **Unit VI: Security, Monitoring, & Optimization:** Credential management, OAuth2, audit logging, performance metrics.
-
-  #### Key Practicals (2025-26)
-  1. Invoice data entry automation in Blue Prism with PDF extraction.
-  2. Customer registration workflow with form automation.
-  3. Simple n8n automated report emailers and Slack notifications.
-  4. API orchestration connecting Weather/News APIs to Google Sheets.
-  5. Fault-tolerant data pipeline with error triggers and retry logic.
-  6. AI document processing for text extraction and classification.
-  7. Content monitoring workflow with AI sentiment analysis.
-  8. AI Agent workflow for web research and summary generation.
-  9. OAuth2 authenticated secure workflows with PII filtering.
-  10. Workflow performance comparison dashboard.
-
-</details>
-
----
-
 ## 📊 GitHub Metrics & Activity
 
 <div align="center">
