@@ -46,9 +46,9 @@ I am Arfaa Taj, a multi-disciplinary engineer bridging the gap between **digital
   <summary><b>🔭 What I am doing right now</b></summary>
   <br />
 
-- **Working on:** Autonomous image-generating robot.
-- **Collaborating on:** Secure communication protocols for drone fleets.
-- **Learning:** ROS2 Navigation Stack and advanced neural networks.
+- **Working on:** Business process automation with Blue Prism and n8n workflows.
+- **Collaborating on:** Integrating AI/ML services into intelligent automation agents.
+- **Learning:** Agentic logic, error handling in data pipelines, and ROS2 Navigation Stack.
 
 </details>
 
@@ -56,8 +56,8 @@ I am Arfaa Taj, a multi-disciplinary engineer bridging the gap between **digital
   <summary><b>🤝 How you can collaborate with me</b></summary>
   <br />
 
-- Need help securing IoT/robotic systems.
-- Building drone, robotics, or automation products.
+- Need help automating processes with Blue Prism or n8n.
+- Building AI-integrated agentic workflows and fault-tolerant data pipelines.
 - Looking for contributors in AI + hardware intersections.
 
 </details>
@@ -72,6 +72,7 @@ I am Arfaa Taj, a multi-disciplinary engineer bridging the gap between **digital
   <br><br>
   <img src="https://img.shields.io/badge/n8n-FF6584?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
   <img src="https://img.shields.io/badge/Automation%20Anywhere-FA4616?style=for-the-badge&logo=automationanywhere&logoColor=white" alt="Automation Anywhere" />
+  <img src="https://img.shields.io/badge/Blue%20Prism-000000?style=for-the-badge&logo=blueprism&logoColor=white" alt="Blue Prism" />
 </div>
 
 ### 💻 Languages and Core
@@ -93,8 +94,8 @@ I am Arfaa Taj, a multi-disciplinary engineer bridging the gap between **digital
   <br />
 
 1. Build secure, autonomous robotics pipeline with ROS2 + edge inference.
-2. Publish an IoT security checklist for robotics teams.
-3. Ship production-ready cloud control plane for intelligent devices.
+2. Master Blue Prism RPA fundamentals and create basic business automations.
+3. Build AI-integrated n8n workflows and deploy production-ready intelligent agents.
 
 </details>
 
